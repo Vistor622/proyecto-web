@@ -9,8 +9,8 @@
     grid-template-columns: 200px 500px;
     position: absolute;
  
-    top: 100%;
-    column-gap: 140%;
+    top: 140%;
+    column-gap: 100%;
     margin: 0;
     padding: 0;
 }
